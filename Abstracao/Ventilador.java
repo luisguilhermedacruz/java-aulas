@@ -1,4 +1,4 @@
-package Encapsulation_Coupling.Abstracao;
+package Abstracao;
 
 public class Ventilador implements Ligavel {
         public void ligar(int voltagem){

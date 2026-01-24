@@ -1,4 +1,4 @@
-package Encapsulation_Coupling.Abstracao;
+package Abstracao;
 
 public class Walk implements Human {
     public void movement(int velocity){

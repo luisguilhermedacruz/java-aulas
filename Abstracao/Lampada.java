@@ -1,4 +1,4 @@
-package Encapsulation_Coupling.Abstracao;
+package Abstracao;
 
 public class Lampada implements Ligavel {
     public void ligar(int voltagem){

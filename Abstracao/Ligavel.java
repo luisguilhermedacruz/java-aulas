@@ -1,4 +1,4 @@
-package Encapsulation_Coupling.Abstracao;
+package Abstracao;
 
 public interface Ligavel {
     public void ligar(int voltagem);

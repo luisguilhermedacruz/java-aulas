@@ -1,4 +1,4 @@
-package Encapsulation_Coupling.Abstracao;
+package Abstracao;
 
 public class Development {
     public void startDevelopment(Human typeMovimentHuman, int velocity){
